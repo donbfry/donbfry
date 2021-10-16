@@ -11,3 +11,8 @@
 </p>
 <p align="center">
 <img src="https://miro.medium.com/max/1200/1*moRojY4kK_7xVC0JLvejLg.jpeg" height=409>
+</p>
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=donbfry.donbfry" alt="visitor badge"/>
+<img src="https://img.shields.io/badge/python-beginner-blue.svg" alt="visitor badge"/>
+</p>
