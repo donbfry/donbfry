@@ -31,6 +31,7 @@
 
 ### Latest blogs post:
 <!-- BLOG-POST-LIST:START -->
+- [Stepping Outside My Comfort Zone](https://dev.to/donbfry/stepping-outside-my-comfort-zone-m75)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
